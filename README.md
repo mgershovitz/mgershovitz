@@ -12,3 +12,8 @@ I work at BigPanda :panda_face:, doing some very interesting stuff with event st
 
 #### :computer: blog:
 I write a tech-blog (in hebrew) about tech, interviews and algorithms. You can find it [here](https://algoritmim.co.il/) (if you don't speak the language you can look at the pretty pictures!)
+
+#### Wanna see something cool?
+Checkout this 2048 self-sovler - 
+
+[![](2048-self-solver.gif)](https://mgershovitz.github.io/2048-solver/)
