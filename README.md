@@ -1,19 +1,27 @@
-# Hi, you've reached maya's Git! <br>I'm not in right now, please leave a [message](https://algoritmim.co.il/contact/).
+<img width="1000" height="283" alt="image" src="https://github.com/user-attachments/assets/09ce6c2a-e86f-4adf-bc40-89c71d4f08bb" />
 
-<img src="https://algoritmim.co.il/wp-content/uploads/2019/09/cropped-maya-banner-1.png" alt="הבלוג של מאיה כותבת אלגוריתמים">
+Hey there! I’m **Maya** — a programmer with over 12 years of experience crafting software, mentoring developers, and pipelining pielines.  
 
-#### :raising_hand: About me:
-I'm a software engineer and a tech-blogger.<br>
-My likes are recursions, functional programming and git hacks.<br>
-My dislikes are long walks on the beach and writing bios.<br>
+I write [**Maya’s Algorithms**](https://algoritmim.co.il/), a tech blog where I share thoughts on programming, problem-solving, and the quiet joys hidden inside a well-designed algorithm.  
 
-#### :house: Work:<br>
-I work at Meta.
+🌀 I’m endlessly fascinated by **recursion**, **functional programming**, and the art of writing beautiful code.  
 
-#### :computer: blog:
-I write a tech-blog (in hebrew) about tech, interviews and algorithms. You can find it [here](https://algoritmim.co.il/) (if you don't speak the language you can look at the pretty pictures!)
+🌱 I love **teaching and sharing knowledge**, helping others find that magical *“aha!”* moment when everything suddenly clicks into place.
 
-#### Wanna see something cool?
-Checkout this 2048 self-sovler - 
+🤩 These days, I’m pouring my heart into *Pagefull*, my dream **book app** that brings the reading and statistics app that would make book lovers rejoice.
 
-[![](2048-self-solver.gif)](https://mgershovitz.github.io/2048-solver/)
+<img width="715" height="679" alt="Screenshot 2025-10-25 at 18 11 11" src="https://github.com/user-attachments/assets/d35c9b95-f93b-4d0f-9e60-a86476333c78" />
+
+
+---
+
+## 🔗 Connect with Me
+
+🌍 [**LinkedIn**](https://www.linkedin.com/in/maya-gershovitz-bar/) — let’s connect and chat about code or creativity  
+💻 [**Maya’s Algorithms Blog**](https://algoritmim.co.il/) — my corner of the web for algorithms, ideas, and insights  
+📬 [**Email Me**](mailto:maya@algoritmim.co.il) — always happy to talk tech, writing, or teaching  
+📘 [**Facebook / Messenger**](https://www.facebook.com/algoritmim) — come say hi and follow my latest updates  
+
+---
+
+✨ *Thanks for stopping by — may your functions be pure and your recursion always terminate.* ✨
